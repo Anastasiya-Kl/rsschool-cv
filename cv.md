@@ -30,34 +30,25 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 ### Languages
 
 - Russian - Native
-- English - Pre-Intermediate
+- English - Intermediate
 
 ---
 
 ### Experience
 
-\*Got basic web programming skills by training on the [MDN platform](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Fundamental_Layout_Comprehension).
+\*Got basic web programming skills by training on the [The Rolling Scopes] (https://rs.school/) and [MDN platform](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Fundamental_Layout_Comprehension).
 
 ---
 
 ### Code example
 
 ```
-<header>
-      <h1>Birdwatching</h1>
-      <img src="dove.png" alt="a simple dove logo">
-
-	<nav>
-      <ul>
-        <li><span>Home</span></li>
-        <li><a href="#">Get started</a></li>
-        <li><a href="#">Photos</a></li>
-        <li><a href="#">Gear</a></li>
-        <li><a href="#">Forum</a></li>
-      </ul>
-	</nav>
-
-</header>}
+function createPhoneNumber(numbers){
+  let first = numbers.splice(0, 3).join('');
+  let second = numbers.splice(0, 3).join('');
+  let last = numbers.splice(0, 4).join('');
+  return `(${first}) ${second}-${last}`;
+}
 
 ```
 
