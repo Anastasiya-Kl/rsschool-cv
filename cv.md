@@ -36,7 +36,7 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 
 ### Experience
 
-\*Got basic web programming skills by training on the [The Rolling Scopes] (https://rs.school/) and [MDN platform](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Fundamental_Layout_Comprehension).
+\*Got basic web programming skills by training on the [The Rolling Scopes](https://rs.school/) and [MDN platform](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Fundamental_Layout_Comprehension).
 
 ---
 
