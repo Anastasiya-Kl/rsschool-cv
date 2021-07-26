@@ -205,7 +205,23 @@ main {
   height: 83px;
 }
 
+footer {
+  font-size: 12px;
+  text-align: center;
+}
+
 footer ul {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
   list-style-type: none;
+}
+
+.logo {
+  border-radius: 10px;
+  height: 30px;
+  width: 60px;
 }
